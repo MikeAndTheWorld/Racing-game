@@ -1,0 +1,23 @@
+﻿  Checkpoint.cpp
+Checkpoint.cpp(72): warning C4552: '+': operator has no effect; expected operator with side-effect
+  Entity.cpp
+  Main.cpp
+Main.cpp(293): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Main.cpp(297): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Main.cpp(301): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Main.cpp(305): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Main.cpp(333): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Main.cpp(337): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Main.cpp(341): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Main.cpp(345): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Main.cpp(349): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Main.cpp(355): warning C4244: 'initializing': conversion from 'sf::Int32' to 'float', possible loss of data
+Main.cpp(363): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+Main.cpp(375): warning C4018: '<': signed/unsigned mismatch
+  OBB.cpp
+  player.cpp
+player.cpp(52): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  track.cpp
+  Walls.cpp
+Main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::CircleShape::CircleShape(class sf::CircleShape &&)" (__imp_??0CircleShape@sf@@QAE@$$QAV01@@Z)
+H:\Documents\Year Two\c++\2D racer new\2D Racing Game - p14133881\racing game\Release\2D CarGame.exe : fatal error LNK1120: 1 unresolved externals
